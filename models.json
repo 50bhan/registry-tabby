@@ -115,5 +115,16 @@
       "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q5_K_M.gguf"
     ],
     "sha256": "fc28168dfbb637821334c04a6d2a3cbd6a7fe5202973eed0c7668832b5ea4b96"
+  },
+    {
+    "name": "StarCoder2-3B",
+    "provider_url": "https://huggingface.co/bigcode/starcoder2-3b",
+    "license_name": "BigCode-OpenRAIL-M",
+    "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "urls": [
+      "https://huggingface.co/TabbyML/StarCoder-3B/resolve/main/ggml/q8_0.v2.gguf",
+    ],
+    "sha256": "9798b7cba84ade7c69ff9f033d60c954e16b18f4d01829993b5fe7e33a49ba81"
   }
 ]
