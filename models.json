@@ -118,13 +118,13 @@
   },
     {
     "name": "StarCoder2-3B",
-    "provider_url": "https://huggingface.co/second-state/StarCoder2-3B-GGUF",
+    "provider_url": "https://huggingface.co/brittlewis12/starcoder2-3b-GGUF",
     "license_name": "BigCode-OpenRAIL-M",
     "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
     "urls": [
-      "https://huggingface.co/second-state/StarCoder2-3B-GGUF/resolve/main/starcoder2-3b-Q5_K_S.gguf"
+      "https://huggingface.co/brittlewis12/starcoder2-3b-GGUF/resolve/main/starcoder2-3b.Q5_K_S.gguf"
     ],
-    "sha256": "484dc0d80a228f5de53f23431da52619372654c0d9cb11a9d2c8872fd56100c0"
+    "sha256": "d174cf67fd81c48bfdf81f4cac5dc42ceccf7ddbd331d878631687161e57b685"
   }
 ]
